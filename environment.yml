@@ -11,6 +11,6 @@ dependencies:
   - prince-factor-analysis
   - adjusttext
   - ipywidgets
- pip install:
-  - voila
+  - pip:
+    - voila
 prefix: C:\Users\Nick1\Desktop\TelcoChurnProject\env
