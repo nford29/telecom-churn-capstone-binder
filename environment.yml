@@ -10,6 +10,7 @@ dependencies:
   - seaborn
   - prince-factor-analysis
   - adjusttext
-  - voila
   - ipywidgets
+ pip install:
+  - voila
 prefix: C:\Users\Nick1\Desktop\TelcoChurnProject\env
