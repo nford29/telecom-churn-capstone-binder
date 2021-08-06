@@ -1,0 +1,12 @@
+name: C:\Users\Nick1\Desktop\TelcoChurnProject\env
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - jupyter
+  - seaborn
+  - voila
+  - ipywidgets
+prefix: C:\Users\Nick1\Desktop\TelcoChurnProject\env
